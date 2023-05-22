@@ -13,4 +13,13 @@ int main()
 
     char ch1 = 123456;
     cout << ch1 << endl;
+
+    int b = 2 / 5;
+    cout << b << endl;
+
+    float c = 2.0 / 5;
+    cout << c << endl;
+
+    double d = 2.0 / 5;
+    cout << d << endl;
 }
