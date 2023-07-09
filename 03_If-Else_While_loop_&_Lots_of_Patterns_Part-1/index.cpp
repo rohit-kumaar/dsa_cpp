@@ -148,7 +148,7 @@ int main()
         int j = 1;
         while (j <= n)
         {
-            cout << i;
+            cout << i << " ";
             j = j + 1;
         }
         cout << endl;
